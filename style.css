@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    display: flex;
+}
+.nav .class img {
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 80px;
+    cursor: pointer;
+}
+.nav .class h2 {
+    margin-left: 190px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -50px;
+}
+hr {
+    border-left: 2px  solid gray;
+    height: 50px;
+    position: absolute;
+    left: 24%;
+    border-right: 0;
+    margin-top: -40px;
+}
+.nav .links {
+    margin-left: 360px;
+    margin-top: -25px;
+}
+.nav .links a {
+    justify-content: space-between;
+    margin-left: 45px;
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400px;
+}
+.nav .btn {
+    margin-left: 1000px;
+    margin-top: -40px;
+}
+.btn button {
+    margin-left: 50px;
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: rgba(255, 255, 0, 0.781);
+    cursor: pointer;
+}
+.btn #get {
+    background-color: black;
+    width: 120px;
+}
+.btn #get a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.btn button a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 50px;
+    margin-left: 90px;
+    margin-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    margin-left: 90px;
+    margin-top: 30px;
+    font-weight: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fir {
+    width: 270px;
+    height: 180px;
+    margin-left: 800px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.clay {
+    width: 270px;
+    margin-left: 800px;
+    margin-top: -125px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.pix {
+    margin-top: -400px;
+    margin-left: -150px;
+}
+#id {
+    width: 270px;
+    margin-left: 1090px;
+    margin-top: -1100px;
+    height: 180px;
+}
+.fix2 {
+    width: 270px;
+    margin-left: 1090px;
+    margin-top: -184px;
+    height: 320px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.hope {
+    margin-top: -130px;
+}
+.but {
+    margin-left: 100px;
+    height: 50px;
+    width: 120px;
+    border: none;
+    background-color: rgb(255, 238, 0);
+    cursor: pointer;
+    margin-top: -960px;
+}   
+.but a {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 15px;
+}
+.end {
+    margin-top: -100px;
+}
+.link {
+    margin-left: 80px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
