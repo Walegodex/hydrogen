@@ -6,15 +6,15 @@
     display: flex;
 }
 .nav .class img {
-    width: 70px;
-    margin-top: 15px;
+    width: 100px;
+    margin-top: 20px;
     margin-left: 80px;
     cursor: pointer;
 }
 .nav .class h2 {
     margin-left: 190px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: -50px;
+    margin-top: -70px;
 }
 hr {
     border-left: 2px  solid gray;
@@ -83,16 +83,17 @@ p {
     width: 270px;
     height: 180px;
     margin-left: 800px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
 }
 
 .clay {
     width: 270px;
+    height: 360px;
     margin-left: 800px;
-    margin-top: -125px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    margin-top: -165px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
 }
 .pix {
     margin-top: -400px;
@@ -100,17 +101,19 @@ p {
 }
 #id {
     width: 270px;
-    margin-left: 1090px;
-    margin-top: -1100px;
+    margin-left: 935px;
+    margin-top: -120px;
     height: 180px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
 }
 .fix2 {
     width: 270px;
-    margin-left: 1090px;
+    margin-left: 1085px;
     margin-top: -184px;
-    height: 320px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    height: 360px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
 }
 .hope {
     margin-top: -130px;
